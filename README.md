@@ -1,5 +1,5 @@
 # ibmML
-
+```python
 from sklearn.neighbors import KNeighborsClassifier
 
 #train
@@ -31,3 +31,4 @@ plt.tight_layout()
 plt.show()
 
 print( "The best accuracy was with", mean_acc.max(), "with k=", mean_acc.argmax()+1) 
+'''
