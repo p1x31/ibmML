@@ -1,0 +1,5 @@
+*.zip
+.vscode
+*.h5
+*.wav
+*.csv
